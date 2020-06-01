@@ -23,5 +23,5 @@ num1 % num2
 end
 
 def square_root(num)
-num / .5
+num / num
 end
