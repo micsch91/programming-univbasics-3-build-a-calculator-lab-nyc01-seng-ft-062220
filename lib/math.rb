@@ -19,7 +19,7 @@ return mult
 end
 
 def modulo(num1, num2)
-mod = num2 % num1
+mod = num1 % num2
 end
 
 def square_root(num)
